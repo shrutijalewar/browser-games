@@ -1,5 +1,6 @@
 ## name of project
 ### Code Badges
+[![Build Status](https://travis-ci.org/shrutijalewar/browser-games.svg)](https://travis-ci.org/shrutijalewar/browser-games)
 build status icon
 coverage status icon
 
